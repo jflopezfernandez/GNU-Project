@@ -16,10 +16,6 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-<p><a href="http://www.gnu.org/" title=
-"The GNU Project"><img alt="GNU" src="https://www.gnu.org/graphics/heckert_gnu.transparent.png" width=
-"129" height="122" /></a></p>
-
 # The GNU Project Standard
 
 The purpose of this repository is to serve as a template for how prospective
