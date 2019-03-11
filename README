@@ -16,6 +16,8 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
+-------------------------------------------------------------------------------
+
 # The GNU Project Standard
 
 The purpose of this repository is to serve as a template for how prospective
@@ -50,6 +52,8 @@ The goal of this project is to holistically and decisively remove the barriers
 to entry into the fraternity of Free software, and as someone who couldn't
 have made it without GCC, the GNU collection as a whole, and everyone who 
 made it possible, I'm extremely excited to do whatever I can to pass it on.
+
+# Task List
 
   * TODO: Process command line arguments.
   * TODO: Generate documentation.
